@@ -17,11 +17,21 @@
 
 ## ⚡ Skills & Expertise  
 
-- **Cloud & Infrastructure**: AWS, OCI, Terraform, Kubernetes, Docker  
-- **Automation & CI/CD**: GitLab CI/CD, Jenkins, Helm, Python, Shell  
-- **Monitoring & Observability**: Prometheus, Grafana, ELK, OCI Logging Analytics, Application Performance Monitoring  
-- **Security & Compliance**: HashiCorp Vault, SonarQube, Burp Suite  
-- **Incident & Performance Management**: SLOs, SLIs, RCA, Capacity Planning  
+# Principal Site Reliability Engineer (SRE)
+
+🚀 **Dynamic & Results-Oriented Principal Site Reliability Engineer (SRE)**  
+💡 **Proven Expertise** in deploying, managing, and optimizing high-performing infrastructure  
+⚙️ **Ensuring Reliability, Scalability, and Security** for mission-critical systems  
+🔥 **Passionate about DevOps, Cloud Technologies, and AI-powered Automation**  
+☁️ **Cloud Expertise**: OCI, AWS  
+📦 **Containerization & Orchestration**: Docker, Kubernetes  
+🛠️ **Infrastructure as Code (IaC)**: Terraform  
+📊 **Observability & Monitoring**: Prometheus, Grafana, ELK, OCI Logging Analytics, APM  
+💻 **Scripting & Coding Skills**: Python, Shell, Go, JavaScript  
+🎯 **Committed to Operational Excellence & High Availability**  
+⚠️ **SRE & Incident Management**: Expertise in incident response, root cause analysis, and driving post-mortem improvements for high-availability systems  
+
+Let's connect and innovate together! 🤝✨
 
 ## 📫 Connect with Me  
 
