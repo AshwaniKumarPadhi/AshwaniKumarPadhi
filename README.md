@@ -25,5 +25,5 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwani--padhi-blue?style=flat&logo=linkedin)](your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwani--padhi-blue?style=flat&logo=linkedin)](ashwani-padhi)  
 [![Email](https://img.shields.io/badge/Email-ashwani90devops%40gmail.com-red?style=flat&logo=gmail)](mailto:ashwani90devops@gmail.com)  
