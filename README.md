@@ -17,8 +17,6 @@
 
 ## ⚡ Skills & Expertise  
 
-# Principal Site Reliability Engineer (SRE)
-
 🚀 **Dynamic & Results-Oriented Principal Site Reliability Engineer (SRE)**  
 💡 **Proven Expertise** in deploying, managing, and optimizing high-performing infrastructure  
 ⚙️ **Ensuring Reliability, Scalability, and Security** for mission-critical systems  
