@@ -19,11 +19,11 @@
 
 - **Cloud & Infrastructure**: AWS, OCI, Terraform, Kubernetes, Docker  
 - **Automation & CI/CD**: GitLab CI/CD, Jenkins, Helm, Python, Shell  
-- **Monitoring & Observability**: Prometheus, Grafana, OCI Logging Analytics, APM  
+- **Monitoring & Observability**: Prometheus, Grafana, ELK, OCI Logging Analytics, Application Performance Monitoring  
 - **Security & Compliance**: HashiCorp Vault, SonarQube, Burp Suite  
 - **Incident & Performance Management**: SLOs, SLIs, RCA, Capacity Planning  
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwani--padhi-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ashwani-padhi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashwani--padhi-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwani-padhi/)  
 [![Email](https://img.shields.io/badge/Email-ashwani90devops%40gmail.com-red?style=flat&logo=gmail)](mailto:ashwani90devops@gmail.com)  
